@@ -1,0 +1,133 @@
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.exe
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.deps.json
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.json
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.dev.json
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.AssemblyReference.cache
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Register.resources
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.GenerateResource.cache
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfoInputs.cache
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfo.cs
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.CoreCompileInputs.cache
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.genruntimeconfig.cache
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Login.resources
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Manager.resources
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Customer.resources
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.RegisterCubicMetre.resources
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.exe
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.deps.json
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.json
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.dev.json
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.AssemblyReference.cache
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Customer.resources
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Login.resources
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Manager.resources
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Register.resources
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.RegisterCubicMetre.resources
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.GenerateResource.cache
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfoInputs.cache
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfo.cs
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.CoreCompileInputs.cache
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.genruntimeconfig.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.exe
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.deps.json
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.json
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.dev.json
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.AssemblyReference.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Customer.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Login.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Manager.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Register.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.RegisterCubicMetre.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.GenerateResource.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfoInputs.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfo.cs
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.CoreCompileInputs.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.genruntimeconfig.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Properties.Resources.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.exe
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.deps.json
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.json
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.dev.json
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.AssemblyReference.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Customer.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Login.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Manager.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Properties.Resources.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Register.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.RegisterCubicMetre.resources
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.GenerateResource.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfoInputs.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfo.cs
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.CoreCompileInputs.cache
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\ManagerWater - Copy - Copy - Copy\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.genruntimeconfig.cache
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.exe
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.deps.json
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.json
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.runtimeconfig.dev.json
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.AssemblyReference.cache
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Customer.resources
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Login.resources
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Manager.resources
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Properties.Resources.resources
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.Register.resources
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.RegisterCubicMetre.resources
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.GenerateResource.cache
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfoInputs.cache
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.AssemblyInfo.cs
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.csproj.CoreCompileInputs.cache
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.dll
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.pdb
+D:\hk7\mauthietke\CK\ManagerWater\ManagerWater\obj\Debug\netcoreapp3.1\ManagerWater.genruntimeconfig.cache
